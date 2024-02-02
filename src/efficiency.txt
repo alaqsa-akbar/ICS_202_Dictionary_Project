@@ -1,0 +1,5 @@
+addWord: O(1)
+deleteWord: O(1)
+findWord: O(1)
+findSimilar: O(1)
+saveToFile: O(n)
