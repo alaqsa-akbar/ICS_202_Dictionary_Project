@@ -55,19 +55,19 @@ Load File:\
 ![Load File](./screenshots/Picture1.png)
 
 Add Word:\
-![Load File](./screenshots/Picture2.png)
+![Add Word](./screenshots/Picture2.png)
 
 Delete Word:\
-![Load File](./screenshots/Picture3.png)
+![Delete Word](./screenshots/Picture3.png)
 
 Find Word:\
-![Load File](./screenshots/Picture4.png)
+![Find Word](./screenshots/Picture4.png)
 
 Find Similar:\
-![Load File](./screenshots/Picture5.png)
+![Find Similar](./screenshots/Picture5.png)
 
 Save to file:\
-![Load File](./screenshots/Picture6.png)
+![Save to File](./screenshots/Picture6.png)
 
 ## 4. Challenges:
 
